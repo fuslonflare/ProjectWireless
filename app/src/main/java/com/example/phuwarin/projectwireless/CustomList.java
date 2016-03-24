@@ -27,7 +27,7 @@ public class CustomList extends ArrayAdapter<String> {
 
     @Override
     public View getView(int index, View row, ViewGroup parent) {
-        row = context2.getLayoutInflater().inflate()
+        //row = context2.getLayoutInflater().inflate()
         return row;
     }
 }
